@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FastFix - Repair & Servis Elektrik</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            text-align: center;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+        p {
+            font-size: 18px;
+            margin: 15px 0;
+        }
+        .cta-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 20px;
+            background-color: #25d366;
+            color: #fff;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #1ebe5b;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f1f1f1;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>FastFix</h1>
+        <p>Pakar Repair & Servis Elektrik & Elektronik Anda</p>
+    </header>
+
+    <main>
+        <p>Masalah barangan elektrik atau elektronik? Kami sedia membantu!</p>
+        <p>Hubungi kami sekarang untuk servis pantas dan berkualiti.</p>
+        <a href="https://wa.me/60123456789" class="cta-button" target="_blank">WhatsApp Kami Sekarang</a>
+    </main>
+
+    <footer>
+        © 2025 FastFix. Semua Hak Cipta Terpelihara.
+    </footer>
+</body>
+</html>
